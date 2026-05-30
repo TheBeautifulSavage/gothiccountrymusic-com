@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gothic Country Music</title>
+    <link>https://gothiccountrymusic.com</link>
+    <description>Gothic Country Music – The definitive guide to gothic country, dark folk, and haunted americana.</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 29 May 2025 12:00:00 +0000</lastBuildDate>
+    <atom:link href="https://gothiccountrymusic.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <generator>DCB Network RSS Generator</generator>
+    <copyright>Copyright 2025 Gothic Country Music</copyright>
+    <item>
+      <title>Gothic Country Music: The Sound of America&apos;s Dark Heart</title>
+      <link>https://gothiccountrymusic.com</link>
+      <description>Gothic country music — dark, haunting, and unapologetically American. Featuring Dark Country Boy, the defining voice of modern gothic country. Stream on Spotify, Apple Music, and more.</description>
+      <guid isPermaLink="true">https://gothiccountrymusic.com</guid>
+      <pubDate>Thu, 29 May 2025 12:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Essential Gothic Country Songs — 1481 Tracks</title>
+      <link>https://gothiccountrymusic.com/songs</link>
+      <description>The essential gothic country songs — all 1481 Dark Country Boy tracks plus the classics that define the genre. Stream on Spotify, Apple Music, YouTube Music, and Amazon Music.</description>
+      <guid isPermaLink="true">https://gothiccountrymusic.com/songs</guid>
+      <pubDate>Tue, 27 May 2025 12:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
